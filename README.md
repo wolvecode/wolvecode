@@ -1,5 +1,5 @@
 ### Hello there,
-I'm Biodun Azeez, and I see you found yourself on github page.
+I'm Biodun Azeez, and I see you found yourself on my Github page.
 
 ### So, who am I, and what I do?
 I'm a software engineer who constantly seeks out innovative solutions to everyday problems.
