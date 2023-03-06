@@ -8,7 +8,7 @@ I love clean and well-designed code; I drool over it  —[Laravel](https://githu
 
 ### Get in touch with me?
 - [Send me an eMail](mailto://azeezbiodun14@yahoo.com)
-- [LinkedIn](https://www.linkedin.com/in/biodun-azeez-295309194/)
+- [LinkedIn](https://www.linkedin.com/in/biodun-azeez/)
 - [Twitter (reply might take a while)](https://twitter.com/herdiozy)
 - [WhatsApp](https://wa.me/2348169030947)
 
